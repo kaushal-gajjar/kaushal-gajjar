@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaushal-gajjar
-- 👀 I’m interested in Azure cloud
+- 👀 I’m interested in Azure
 - 🌱 I’m currently learning AZ-204
 
 <!---
